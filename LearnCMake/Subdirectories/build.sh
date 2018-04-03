@@ -1,5 +1,5 @@
 #/bin/bash
 
 cmake . -Bbuild
-(cd build && make && ./libs)
+(cd build && make && ./helloworld/libs)
 

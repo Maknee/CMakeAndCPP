@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/libs.dir/src/helloworld.cpp.o  -o libs ../lib1/liblib1.a ../lib2/liblib2.so -Wl,-rpath,/home/ubuntu/CMakeAndCPP/LearnCMake/Subdirectories/lib2 
